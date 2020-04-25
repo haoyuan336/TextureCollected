@@ -2024,3 +2024,33 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.25-15.07.47:327][705]LogHttp: Warning: 0000013D8BD29D00: libcurl info message cache 6 (necessary data rewind wasn't possible)
 [2020.04.25-15.07.47:327][705]LogHttp: Warning: 0000013D8BD29D00: libcurl info message cache 7 (Closing connection 279)
 [2020.04.25-15.07.47:659][706]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF38AAB18-4EF1-94CF-255E-2D9C8D8CFE51%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=fb04c006498c7d64678d62b1c1bbae41%7Cdebfa5905ba348d98f55e1586c386c77%7C2c7704a7-29fc-45d1-ace5-673786d4fcb4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.04.25-16.13.31:550][586]LogUObjectHash: Compacting FUObjectHashTables data took  25.89ms
+[2020.04.25-16.13.34:088][586]LogSlate: Window '保存内容' being destroyed
+[2020.04.25-16.13.34:165][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mesh/ColorTexture" FILE="../../../../../workspace/TextureCollected/MyTowerDefence/Content/Mesh/ColorTexture.uasset" SILENT=true
+[2020.04.25-16.13.34:315][586]LogSavePackage: Moving '../../../../../workspace/TextureCollected/MyTowerDefence/Saved/ColorTextureFAEB2D014A1CD2E80E9FD6B13BE7FFBC.tmp' to '../../../../../workspace/TextureCollected/MyTowerDefence/Content/Mesh/ColorTexture.uasset'
+[2020.04.25-16.13.34:719][586]LogSlate: Window 'MyTowerDefence - 虚幻编辑器' being destroyed
+[2020.04.25-16.13.34:741][586]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (微软拼音).
+[2020.04.25-16.13.36:382][586]AssetCheck: New page: 资源保存：ColorTexture
+[2020.04.25-16.13.36:382][586]LogContentValidation: Display: 正在验证Texture2D /Game/Mesh/ColorTexture.ColorTexture
+[2020.04.25-16.13.36:407][587]Cmd: QUIT_EDITOR
+[2020.04.25-16.13.36:412][587]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.04.25-16.13.36:682][587]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.04.25-16.13.36:806][587]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.25-16.13.38:197][587]LogExit: Preparing to exit.
+[2020.04.25-16.13.39:826][587]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-16.13.39:884][587]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-16.13.39:885][587]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-16.13.39:901][587]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.04.25-16.13.39:901][587]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.04.25-16.13.39:901][587]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.04.25-16.13.39:901][587]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.04.25-16.13.39:901][587]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.04.25-16.13.39:901][587]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.04.25-16.13.39:901][587]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.04.25-16.13.39:901][587]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-16.13.40:501][587]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.04.25-16.13.41:031][587]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.04.25-16.13.41:054][587]LogExit: Editor shut down
+[2020.04.25-16.13.41:057][587]LogExit: Transaction tracking system shut down
+[2020.04.25-16.13.44:492][587]LogExit: Object subsystem successfully closed.
+[2020.04.25-16.13.44:847][587]LogShaderCompilers: Display: Shaders left to compile 0
